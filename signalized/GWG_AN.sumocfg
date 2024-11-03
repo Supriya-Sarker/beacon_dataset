@@ -1,0 +1,15 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:/Users/ssarker8/Desktop/beacon/beacon_dataset/signalized/GWG_AN_intersection_files/GWG.net.xml"/>
+        <route-files value="C:/Users/ssarker8/Desktop/beacon/beacon_dataset/signalized/GWG_AN_intersection_files/GWG.rou.xml"/>
+    
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="6000"/>
+        <step-length value="0.2"/> 
+    </time>
+
+
+</configuration>

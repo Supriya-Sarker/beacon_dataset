@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<routes>
+
+    <vType id="idmCar" vClass="passenger" carFollowModel="IDM" maxSpeed="10.00" sigma = "0.5"/>
+    <!-- New routes-->
+    <route id="route_6_7" edges="e_6_5_4_3 e_7_8"></route>
+    <route id="route_3_19" edges="e_6_5_4_3 e_18_19"></route>
+    <route id="route_22_7" edges="e_20_21_22 e_7_8"></route>
+    <route id="route_22_1" edges="e_20_21_22 e_1_2"></route>
+    <route id="route_22_2" edges="e_20_21_22 e_1_2"></route>
+    <route id="route_21_8" edges="e_20_21_22 e_7_8"></route>
+    <route id="route_5_14" edges="e_6_5_4_3 e_13_14"></route> 
+    <route id="route_4_14" edges="e_6_5_4_3 e_13_14"></route> 
+    <route id="route_16_1" edges="e_15_16_17 e_1_2"></route>
+    <route id="route_16_2" edges="e_15_16_17 e_1_2"></route>
+    <route id="route_15_2" edges="e_15_16_17 e_1_2"></route>
+    <route id="route_15_8" edges="e_15_16_17 e_7_8"></route> 
+    <route id="route_17_1" edges="e_15_16_17 e_1_2"></route>
+    <route id="route_17_2" edges="e_15_16_17 e_1_2"></route>
+    <route id="route_17_18" edges="e_15_16_17 e_18_19"></route> 
+    <route id="route_3_18" edges="e_6_5_4_3 e_18_19"></route>
+    <route id="route_3_14" edges="e_6_5_4_3 e_13_14"></route>
+    <route id="route_11_18" edges="e_9_10_11_12 e_18_19"></route>
+    <route id="route_10_13" edges="e_9_10_11_12 e_13_14"></route>
+    <route id="route_10_19" edges="e_9_10_11_12 e_18_19"></route>
+    <route id="route_9_2" edges="e_9_10_11_12 e_1_2"></route>
+    <route id="route_9_1" edges="e_9_10_11_12 e_1_2"></route>
+    <route id="route_9_19" edges="e_9_10_11_12 e_18_19"></route>
+    <route id="route_10_18" edges="e_9_10_11_12 e_18_19"></route>
+    <route id="route_12_18" edges="e_9_10_11_12 e_18_19"></route>
+    <route id="route_6_13" edges="e_6_5_4_3 e_13_14"></route>
+    <route id="route_5_13" edges="e_6_5_4_3 e_13_14"></route>
+    <route id="route_16_8" edges="e_15_16_17 e_7_8"></route>  
+    <route id="route_20_13" edges="e_20_21_22 e_13_14"></route>
+    <route id="route_20_14" edges="e_20_21_22 e_13_14"></route>
+    <route id="route_19_14" edges="e_18_19 e_13_14"></route>
+    <route id="route_12_13" edges="e_9_10_11_12 e_13_14"></route>
+    <route id="route_12_14" edges="e_9_10_11_12 e_13_14"></route>
+    <route id="route_11_19" edges="e_9_10_11_12 e_18_19"></route>
+</routes>

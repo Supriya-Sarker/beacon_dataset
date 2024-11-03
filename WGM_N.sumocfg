@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+      <net-file value="WGM_N_intersection_files/WGM.net.xml" />
+      <route-files value="WGM_N_intersection_files/WGM.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="15000"/>
+    </time>
+</configuration>

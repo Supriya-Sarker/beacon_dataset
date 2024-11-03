@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+      <net-file value="C:/Users/ssarker8/Desktop/beacon/beacon_dataset/signalized/WGM_N_intersection_files/WGM.net.xml" />
+      <route-files value="C:/Users/ssarker8/Desktop/beacon/beacon_dataset/signalized/WGM_N_intersection_files/WGM.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+</configuration>

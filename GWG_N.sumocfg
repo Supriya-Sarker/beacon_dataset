@@ -1,0 +1,13 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="GWG_N_intersection_files/GWG.net.xml"/>
+        <route-files value="GWG_N_intersection_files/GWG.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="15000"/>
+    </time>
+
+
+</configuration>

@@ -1,0 +1,72 @@
+<routes>
+
+    <!--<vType id="idmCar" vClass="passenger" accel="1.5" decel="1.5" tau="4.0" sigma="0.5" length="5" minGap="4.5" maxSpeed="13.9" lcModel="DK2008" lcCooperative="0.5" carFollowModel="IDM" /> -->
+    <!--<vType id="idmCar" vClass="passenger" lcModel="DK2008" carFollowModel="IDM" />> -->
+
+    <vType id="idmCar" carFollowModel="IDM" jmSigmaMinor = "0.8" />
+
+    <!-- New routes-->
+
+    <route id="route_22_7" edges="e_20_21_22 e_7_8"></route>
+    <route id="route_22_8" edges="e_20_21_22 e_7_8"></route> <!--Extra -->
+    <route id="route_22_1" edges="e_20_21_22 e_1_2"></route>
+
+    <route id="route_21_8" edges="e_20_21_22 e_7_8"></route>
+    <route id="route_21_7" edges="e_20_21_22 e_7_8"></route> <!--Extra -->
+
+    <route id="route_20_13" edges="e_20_21_22 e_12_13"></route>
+    <route id="route_20_12" edges="e_20_21_22 e_12_13"></route> <!--Extra -->
+    <route id="route_21_1" edges="e_20_21_22 e_1_2"></route> 
+
+    <route id="route_9_2" edges="e_9_10_11 e_1_2"></route> <!-- New -->
+    <route id="route_6_8" edges="e_6_5_4_3 e_7_8"></route> <!-- New -->
+    <route id="route_9_19" edges="e_9_10_11 e_18_19"></route> <!-- New -->
+    <route id="route_5_7" edges="e_6_5_4_3 e_7_8"></route> <!-- New -->
+    <route id="route_11_13" edges="e_9_10_11 e_12_13"></route> <!-- New -->
+    <route id="route_22_9" edges="e_20_21_22 e_9_10_11"></route> <!-- New -->
+    <route id="route_20_8" edges="e_20_21_22 e_7_8"></route> <!-- New -->
+    <route id="route_14_7" edges="e_14_15_16_17 e_7_8"></route> <!-- New -->
+    <route id="route_11_19" edges="e_9_10_11 e_18_19"></route> <!-- New -->
+    <route id="route_20_9" edges="e_20_21_22 e_9_10_11"></route> <!-- New -->
+
+    <route id="route_10_19" edges="e_9_10_11 e_18_19"></route> <!--Extra -->
+    <route id="route_10_18" edges="e_9_10_11 e_18_19"></route>  
+    <route id="route_10_2" edges="e_9_10_11 e_18_19"></route>  
+
+    <route id="route_17_18" edges="e_14_15_16_17 e_18_19"></route>
+    <route id="route_17_1" edges="e_14_15_16_17 e_1_2"></route>
+
+    <route id="route_16_1" edges="e_14_15_16_17 e_1_2"></route>
+    <route id="route_16_2" edges="e_14_15_16_17 e_1_2"></route>
+
+    <route id="route_15_2" edges="e_14_15_16_17 e_1_2"></route> 
+    <route id="route_15_1" edges="e_14_15_16_17 e_1_2"></route> <!--Extra -->
+
+    <route id="route_14_8" edges="e_14_15_16_17 e_7_8"></route>
+
+    <route id="route_6_7" edges="e_6_5_4_3 e_7_8"></route>
+    <route id="route_6_13" edges="e_6_5_4_3 e_12_13"></route>  <!--Extra -->
+    <route id="route_6_12" edges="e_6_5_4_3 e_12_13"></route>  <!--Extra -->
+
+    <route id="route_5_13" edges="e_6_5_4_3 e_12_13"></route>
+    <route id="route_5_12" edges="e_6_5_4_3 e_12_13"></route>
+
+    <route id="route_4_13" edges="e_6_5_4_3 e_12_13"></route>
+    <route id="route_4_12" edges="e_6_5_4_3 e_12_13"></route>  <!--Extra -->
+    <route id="route_4_19" edges="e_6_5_4_3 e_18_19"></route>
+
+    <!-- <route id="route_19_12" edges="e_18_19 e_12_13"></route>
+    <route id="route_19_13" edges="e_18_19 e_12_13"></route> -->
+
+    <route id="route_3_19" edges="e_6_5_4_3 e_18_19"></route>
+    <route id="route_3_18" edges="e_6_5_4_3 e_18_19"></route>  <!--Extra -->
+
+    <route id="route_11_18" edges="e_9_10_11 e_18_19"></route>
+    <route id="route_11_12" edges="e_9_10_11 e_12_13"></route>
+
+
+ 
+    
+</routes>
+
+
