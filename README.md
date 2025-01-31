@@ -1,2 +1,1 @@
-# beacon_dataset
-I will write this later
+# Beacon Dataset: Traffic Dynamics During Blackouts
