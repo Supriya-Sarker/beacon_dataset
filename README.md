@@ -55,7 +55,7 @@ Parses simulation outputs:
    ```bash
    python traci_script.py
    ```
-   - Modify `base_path` and `dataset_name` inside the script to point to your dataset.
+   - Modify `base_path` and `dataset_name` inside the script to point to your desired dataset.
 
 ## Dataset Description
 
