@@ -71,7 +71,7 @@ Parses simulation outputs:
 ### Mixed Traffic Simulation
 For mixed traffic simulation, detailed instructions can be found at: [Fluidic-City-Lab/MixedTrafficControl](https://github.com/Fluidic-City-Lab/MixedTrafficControl)
 
-#### Please make sure to make the following changes before running the DQN_run.py or DQN_eval.py files:
+#### Please make the following changes before running the DQN_run.py or DQN_eval.py files:
 
 #### **1. Place the Files**
 - Put your network (`.net.xml`) and route (`.rou.xml`) files into the `real_data` folder.
